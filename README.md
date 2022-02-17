@@ -7,4 +7,4 @@ and follow the instructions.
 
 If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
 
-[workbench]: https://carpentries.github.io/sandpaper-docs/.
+[workbench]: https://carpentries.github.io/sandpaper-docs/
